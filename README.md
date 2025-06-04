@@ -6,7 +6,7 @@
 
 ![Image](https://github.com/user-attachments/assets/3d3c206f-1e9d-40cd-a6e3-2990c66aa76f)
 
-- [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
+- [Demo Project](https://miladkarimi1370.github.io/hairdresser//)
 
 - Developed by Milad Karimi
 
