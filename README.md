@@ -1,4 +1,4 @@
-# Hairdresset , the Responsive project with Tailwind
+# Hairdresser , the Responsive project with Tailwind
 
 **I like Tailwind , this is a magic to writing css code**
 
