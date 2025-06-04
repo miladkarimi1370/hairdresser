@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'Ancizar Serif';
+    src: url('../fonts/AncizarSerif-Light.eot');
+    src: url('../fonts/AncizarSerif-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AncizarSerif-Light.woff2') format('woff2'),
+        url('../fonts/AncizarSerif-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+body {
+    font-family: "Ancizar Serif";
+}
+
+@layer base {
+    .row {
+        @apply flex flex-wrap
+    }
+
+}
+
+@layer components {}
+
+@layer utilities {}
+
